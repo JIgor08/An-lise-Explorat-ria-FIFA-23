@@ -1,5 +1,5 @@
 # Analise-Exploratoria-FIFA-23
-Obs.: Como o Github não permite gráficos interativos, fiz dois arquivos: com seaborn e com plotly. Somente o FIFA 23-seaborn possui gráficos
+Obs.: Como o Github não permite gráficos interativos, fiz dois arquivos: com seaborn e com plotly. Somente o FIFA 23-seaborn possui gráficos.
 
 Análise de dados dos jogadores do jogo FIFA 23
 
